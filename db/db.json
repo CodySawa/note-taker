@@ -1,10 +1,9 @@
 {
-    "savedNotesArr": 
-    [
-        {
-            "title":"Test Title",
-            "text":"Test text"
-        }
-    ]
+  "array": [
+    {
+      "title": "Homework",
+      "text": "Math",
+      "id": "0"
+    }
+  ]
 }
-
